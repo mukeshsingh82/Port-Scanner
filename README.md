@@ -39,7 +39,9 @@ It deliberately does **not** do banner grabbing, version detection, stealth tech
 
 | Idle | Scan in progress |
 | --- | --- |
-| ![Main window](docs/screenshots/main-window.png) | ![Scan results](docs/screenshots/scan-results.png) |
+|<img width="1366" height="768" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/07c05688-cdc3-4da4-82d0-0bcf677273d2" />
+ | <img width="1600" height="900" alt="WhatsApp Image 2026-09-23 at 1 11 22 PM" src="https://github.com/user-attachments/assets/0b6037f0-dc96-4ee0-bc47-b89261acde73" />
+ |
 
 ## Tech Stack
 
