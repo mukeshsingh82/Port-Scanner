@@ -35,7 +35,7 @@ It deliberately does **not** do banner grabbing, version detection, stealth tech
 
 ## Screenshots
 
-> Replace the placeholders below with real screenshots in `docs/screenshots/`.
+
 
 | Idle | Scan in progress |
 | --- | --- |
